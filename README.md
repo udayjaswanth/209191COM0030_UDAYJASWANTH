@@ -1,5 +1,5 @@
 # 209191COM0030_UDAYJASWANTH
-Just follow the steps below to analyze the customer data (it's fake, don't worry I didn't give you real credit card numbers or emails).
+Just follow the steps below to analyze the customer data 
 
 Imports
 import pandas as pd
